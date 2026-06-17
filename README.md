@@ -1,5 +1,5 @@
 # Emotion Recognition from Social Media Videos
-
+Datasets, intermediate files, and trained models are excluded due to storage limitations and competition restrictions.
 ## Overview
 
 This project was developed as part of **Satria Data 2025**, one of Indonesia's national data science competitions. The objective was to build a multimodal emotion recognition system capable of identifying emotions expressed in Indonesian social media videos.
